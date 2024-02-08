@@ -449,8 +449,8 @@ const Portfolio = () => {
       description:
         "Explore my professional portfolio to discover the essence of who I am – from my journey in the tech realm to the impactful projects that define my expertise.",
       technologies: "Html | CSS | JavaScript | Jquery | ReactJs",
-      link: "https://alpha-agency-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Alpha-Agency-Project",
+      link: "https://shiny-heliotrope-b3584f.netlify.app/",
+      github: "https://github.com/vasuGoel17/my-portfolio",
     },
     {
       id: 5,
